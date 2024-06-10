@@ -4,7 +4,7 @@ import pyautogui
 import utilstb
 import time
 
-workbook = openpyxl.load_workbook(r'D:\etiquetas\produtos\Cadastro produtos GIl Supermercado.xlsx')
+workbook = openpyxl.load_workbook(r'')
 sheet = workbook.active
 
 
