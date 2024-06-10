@@ -2,7 +2,8 @@ Tem que ter o BarTender Designer
 
 Primeiro passo: Colocar o caminho até o seu arquivo, workbook = openpyxl.load_workbook(r'caminho do arquivo')
 
-O bot pega o cod, nome e valor do produto
+O bot pega o cod, nome e valor do produto:
+
 cod = sheet['C']
 produto = sheet['B']    
 valor = sheet['D']
